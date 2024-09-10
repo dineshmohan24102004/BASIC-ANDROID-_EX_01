@@ -31,10 +31,15 @@ Step 7: Save and run the application.
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
 Developed by: Dinesh M
 RegisterNumber:  212222040039
-*/
+/*
 ```
 
+
 ## MainActivity.java:
+
+
+```
+/*
 
 package com.example.helloworld;
 
@@ -85,9 +90,13 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-
+/*
+```
 
 ## activitymain.xml:
+
+```
+/*
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -107,6 +116,8 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+/*
+```
 
 
 ## OUTPUT:
