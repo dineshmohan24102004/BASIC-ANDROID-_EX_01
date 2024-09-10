@@ -123,3 +123,11 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 
 ![WhatsApp Image 2024-09-10 at 5 51 59 PM](https://github.com/user-attachments/assets/b36e756c-1d9a-4a07-a6be-e954928e974b)
+
+![WhatsApp Image 2024-09-10 at 5 51 44 PM](https://github.com/user-attachments/assets/3f909b18-25ab-4ad5-86cd-cf593fac23ef)
+
+
+## RESULT:
+
+Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
+
